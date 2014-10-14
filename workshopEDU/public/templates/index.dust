@@ -5,5 +5,7 @@
     <p>This is a new project called {name}</p>
     <h1>My name is {name}</h1>
     <p>This is a new project called {name}</p>
-    
+
+    <h1>My name is {name}</h1>
+    <p>This is a new project called {name}</p>    
 {/body}
